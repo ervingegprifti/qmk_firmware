@@ -2,8 +2,8 @@
 
 Alpha Rockhopper Staggered is an ergo Alice-like keyboard but with symmetry in mind.
 
-![Alpha Rockhopper Staggered](https://imgur.com/UmWqCOQ.jpg)
-![Alpha Rockhopper Staggered](https://imgur.com/h2qx2YM.jpg)
+![Alpha Rockhopper Staggered](https://i.imgur.com/XHeA7Ht.jpg)
+![Alpha Rockhopper Staggered (Back)](https://i.imgur.com/zFzgCDT.jpg)
 
 * Keyboard Maintainer: [ervingegprifti](https://github.com/ervingegprifti)
 * MCU Board: 
@@ -18,6 +18,6 @@ Flashing example for this keyboard:
 
     make handwired/alpha_rockhopper/staggered/bonsai_c4_extended:default:flash
 
-Bonsai C4 has and STM32 USB dfu bootloader preinstalled. To enter the bootloader, run the flashing command above, and then either plug in the USB connection while holding the top-left key, or alternatively, plug in the USB connection and then press the reset button on the PCB
+To enter the bootloader, run the flashing command above, and then either plug in the USB connection while holding the top-left key, or alternatively, plug in the USB connection and then press the reset button on the PCB
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
