@@ -2,7 +2,7 @@
 
 Alpha Rockhopper Staggered is an ergo Alice-like keyboard but with symmetry in mind.
 
-![Alpha Rockhopper Staggered](https://i.imgur.com/XHeA7Ht.jpg)
+![Alpha Rockhopper Staggered](https://imgur.com/UwexBwZ.jpg)
 ![Alpha Rockhopper Staggered (Back)](https://i.imgur.com/zFzgCDT.jpg)
 
 * Keyboard Maintainer: [ervingegprifti](https://github.com/ervingegprifti)
