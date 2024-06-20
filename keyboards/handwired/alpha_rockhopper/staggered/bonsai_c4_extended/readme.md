@@ -6,8 +6,7 @@ Alpha Rockhopper Staggered is an ergo Alice-like keyboard but with symmetry in m
 ![Alpha Rockhopper Staggered (Back)](https://i.imgur.com/zFzgCDT.jpg)
 
 * Keyboard Maintainer: [ervingegprifti](https://github.com/ervingegprifti)
-* MCU Board: 
-[Bonsai C4 Extended](https://shop.custommk.com/products/bonsai-c4-microcontroller-board?variant=41508980850884)
+* MCU Board: [Bonsai C4 Extended](https://shop.custommk.com/products/bonsai-c4-microcontroller-board?variant=41508980850884)
 * KLE Layout: [Alpha Rockhopper Staggered Layout](http://www.keyboard-layout-editor.com/#/gists/f1691edd9e2282ffe500fcc9aa19e85b)
 
 Make example for this keyboard (after setting up your build environment):
