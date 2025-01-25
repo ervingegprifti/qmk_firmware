@@ -6,3 +6,6 @@ BOOTMAGIC_ENABLE = yes
 
 # https://docs.qmk.fm/features/encoders
 ENCODER_ENABLE = yes
+
+# https://docs.qmk.fm/features/auto_shift
+AUTO_SHIFT_ENABLE = yes

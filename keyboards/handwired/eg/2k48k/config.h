@@ -20,3 +20,6 @@
 #define ENCODERS_PAD_A { D3, D1 }
 #define ENCODERS_PAD_B { D2, D0 }
 #define ENCODER_RESOLUTION 4
+
+// https://docs.qmk.fm/features/auto_shift
+#define AUTO_SHIFT_TIMEOUT 190
